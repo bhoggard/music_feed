@@ -1,6 +1,6 @@
 # MusicFeed
 
-Small Elixir library to retrieve data from the data feed of various streaming music stations
+Small Elixir library to retrieve now playing data from various streaming music stations
 
 ## Installation
 
@@ -16,6 +16,8 @@ end
 
     > MusicFeed.counterstream()
     %{ title: "Title of Piece", composer: "Composer of Piece" }
+
+An example of this library in use is available at [https://github.com/bhoggard/now-playing-api-ex](https://github.com/bhoggard/now-playing-api-ex).
 
 ## Contributing
 

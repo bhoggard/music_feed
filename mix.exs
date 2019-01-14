@@ -7,7 +7,7 @@ defmodule MusicFeed.MixProject do
       version: "0.9.0",
       elixir: "~> 1.7",
       start_permanent: Mix.env() == :prod,
-      description: "Elixir library to retrieve data from the data feed of various streaming music stations",
+      description: "Small Elixir library to retrieve now playing data from various streaming music stations",
       deps: deps(),
       package: package(),
 
