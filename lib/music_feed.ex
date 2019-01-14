@@ -13,7 +13,7 @@ defmodule MusicFeed do
   alias MusicFeed.Parser
 
   @doc """
-  Get piece currently playing on [Countestream](https://www.newmusicusa.org/our-work/about-counterstream-radio/)
+  Get piece currently playing on [Counterstream](https://www.newmusicusa.org/our-work/about-counterstream-radio/)
   """
 
   def counterstream do

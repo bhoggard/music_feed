@@ -16,7 +16,6 @@ defmodule MusicFeed.MixProject do
       source_url: "https://github.com/bhoggard/music_feed",
       homepage_url: "https://github.com/bhoggard/music_feed",
       docs: [
-        main: "README",
         extras: ["README.md"]
       ]
     ]
